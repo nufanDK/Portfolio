@@ -1,18 +1,18 @@
 # Portfolio
 This will be a portfolio of stuff I made or have been part of making.
 
-3D Modelling:
+<b>3D Modelling:</b>
 
 
-Photogrammetry:
+<b>Photogrammetry:</b>
 
 
 <b>VFX / Renderings:</b> <br>
 https://vimeo.com/213146573
 
-<u>VR experiments:</u> <br>
+<b>VR experiments:</b> <br>
 Thesis implementation - https://vimeo.com/787408821
 
-<u>Video games:</u> <br>
+<b>Video games:</b> <br>
 Primal Arena - https://www.youtube.com/watch?v=Pqj8WenpvIE <br>
 PetraPunk - https://www.youtube.com/watch?v=zc8PWQ-WY4A
