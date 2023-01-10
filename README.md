@@ -1,8 +1,13 @@
 # Portfolio
 This will be a portfolio of stuff I made or have been part of making.
 
+3D Modelling:
 
-<u>VFX / Renderings:</u> <br>
+
+Photogrammetry:
+
+
+<b>VFX / Renderings:</b> <br>
 https://vimeo.com/213146573
 
 <u>VR experiments:</u> <br>
